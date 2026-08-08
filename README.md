@@ -5,6 +5,7 @@ Technology Used:
    HTML
    CSS
 Structure:
+   Readme.md
    index.html
    style.css
-   Readme.md
+   
